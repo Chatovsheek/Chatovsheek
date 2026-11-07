@@ -7,6 +7,10 @@
 ![Source Available](https://img.shields.io/badge/License-Source--Available-orange)
 
 <p align="center">
+  <img src="logo.svg" alt="DEEPPAG-DC Logo" width="600">
+</p>
+
+<p align="center">
   <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
