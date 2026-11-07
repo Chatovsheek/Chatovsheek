@@ -5,6 +5,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-blue)
 ![Source Available](https://img.shields.io/badge/License-Source--Available-orange)
+
+<p align="center">
+  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#16213e"/>
+        <stop offset="100%" stop-color="#0f3460"/>
+      </linearGradient>
+    </defs>
+    <rect width="600" height="100" rx="15" fill="url(#bgGrad)"/>
+    <text x="30" y="55" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#e94560">DEEPPAG-DC</text>
+    <text x="30" y="80" font-family="Arial, sans-serif" font-size="14" fill="#9aa8bb">Инженерные инструменты в браузере</text>
+    <path d="M 540 30 L 570 50 L 540 70" stroke="#e94560" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 510 30 L 480 50 L 510 70" stroke="#e94560" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</p>
+
 ### Привет! Я разрабатываю инструменты для инженеров, математиков и не только.
 
 Мой подход: **один HTML-файл — одно готовое приложение**. Открыл в браузере и работаешь. Без установки, без серверов, без лишних зависимостей. Файлы остаются на вашем компьютере.
