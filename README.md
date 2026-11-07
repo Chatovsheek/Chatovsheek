@@ -1,3 +1,8 @@
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![GPLv3](https://img.shields.io/badge/License-GPLv3-blue)
+![Source Available](https://img.shields.io/badge/License-Source--Available-orange)
 ### Привет! Я разрабатываю инструменты для инженеров, математиков и не только.
 
 Мой подход: **один HTML-файл — одно готовое приложение**. Открыл в браузере и работаешь. Без установки, без серверов, без лишних зависимостей. Файлы остаются на вашем компьютере.
