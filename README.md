@@ -21,7 +21,7 @@
 
 Все три инструмента доступны онлайн (GitHub Pages) и для скачивания (Releases):
 
-- **[Конвертер чертежей](https://chatovsheek.github.io/DEEPPAG-DC_drawing_format_converter/)** — DXF, SVG, PDF, PNG, JSON. Работает офлайн. [Релизы]([https://github.com/Chatovsheek/DEEPPAG-DC_drawing_format_converter](https://github.com/Chatovsheek/DEEPPAG-DC_drawing_format_converter/releases))
+- **[Конвертер чертежей](https://chatovsheek.github.io/DEEPPAG-DC_drawing_format_converter/)** — DXF, SVG, PDF, PNG, JSON. Работает офлайн. [Релизы](https://github.com/Chatovsheek/DEEPPAG-DC_drawing_format_converter/releases)
 - **[Инженерный эскизник](https://chatovsheek.github.io/DEEPPAG-DC_engineering_sketchpad/)** — 2D-черчение, размеры по ГОСТ, рамка A4/A3, штамп. [Исходники](https://github.com/Chatovsheek/DEEPPAG-DC_engineering_sketchpad)
 - **[Математический блокнот + графер](https://chatovsheek.github.io/DEEPPAG-DC_math-notebook_grapher/)** — LaTeX-формулы, графики функций (явные, неявные, параметрические), экспорт в PDF. [Исходники](https://github.com/Chatovsheek/DEEPPAG-DC_math-notebook_grapher)
 
